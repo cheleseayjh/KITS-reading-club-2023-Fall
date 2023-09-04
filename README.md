@@ -43,13 +43,13 @@ Every week on Saturday at 10am BJT.
 
 ## Schedule of speakers
 
-- 2023-09-16: General introduction & [1907.08126](https://arxiv.org/abs/1907.08126) Section 1
-- 2023-09-23: [1907.08126](https://arxiv.org/abs/1907.08126) Section 2
-- 2023-09-30: [1907.08126](https://arxiv.org/abs/1907.08126) Section 3
-- 2023-10-07: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.1-4.3
-- 2023-10-14: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.4-4.7
-- 2023-10-21: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.1-5.2
-- 2023-10-28: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.3-5.4
+- 2023-09-16: General introduction & [1907.08126](https://arxiv.org/abs/1907.08126) Section 1 Jianghui Yu [余江辉]
+- 2023-09-23: [1907.08126](https://arxiv.org/abs/1907.08126) Section 2 []
+- 2023-09-30: [1907.08126](https://arxiv.org/abs/1907.08126) Section 3 Yixin Ma [马奕昕]
+- 2023-10-07: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.1-4.3 Guancheng Lu [鹿官澄]
+- 2023-10-14: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.4-4.7 Tengzhou lai [赖腾洲]
+- 2023-10-21: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.1-5.2 Weibo Mao [茅伟博]
+- 2023-10-28: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.3-5.4 Chen Bai [柏辰]
 - 2023-11-04: 
 
 
