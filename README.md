@@ -43,11 +43,11 @@ Every week on Saturday at 10am BJT.
 
 ## Schedule of speakers
 
-- 2023-09-16: General introduction & [1907.08126](https://arxiv.org/abs/1907.08126) Section 1 []
-- 2023-09-23: [1907.08126](https://arxiv.org/abs/1907.08126) Section 2 []
+- 2023-09-16: General introduction & [1907.08126](https://arxiv.org/abs/1907.08126) Section 1 Tengzhou Lai [赖腾洲]
+- 2023-09-23: [1907.08126](https://arxiv.org/abs/1907.08126) Section 2 Yanyuan Li [黎晏源]
 - 2023-09-30: [1907.08126](https://arxiv.org/abs/1907.08126) Section 3 Yixin Ma [马奕昕]
 - 2023-10-07: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.1-4.3 Guancheng Lu [鹿官澄]
-- 2023-10-14: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.4-4.7 Tengzhou lai [赖腾洲]
+- 2023-10-14: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.4-4.7 Miao Wang [王淼]
 - 2023-10-21: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.1-5.2 Weibo Mao [茅伟博]
 - 2023-10-28: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.3-5.4 Chen Bai [柏辰]
 - 2023-11-04: 
@@ -59,4 +59,20 @@ Every week on Saturday at 10am BJT.
 - Quantum Information:
   - [Jerusalem Lectures on Black Holes and
     Quantum Information](https://arxiv.org/abs/1409.1231) 
-- 
+  - [A Mini-Introduction To Information Theory](https://arxiv.org/abs/1805.11965) 
+- EE in QFT & Holography:
+  - [Lectures on Gravity and Entanglement](https://arxiv.org/abs/1609.00026) 
+  - [Entanglement entropy: holography and renormalization group](https://arxiv.org/abs/1801.10352) 
+  - [Lectures on entanglement in quantum field theory](https://arxiv.org/abs/2201.13310) 
+- Algebras & Entanglement properties:
+  - [Notes On Some Entanglement Properties Of Quantum Field Theory](https://arxiv.org/abs/1803.04993) 
+  - [Notes on the type classification of von Neumann
+    algebras](https://arxiv.org/abs/2302.01958) 
+  - [Why Does Quantum Field Theory In Curved Spacetime Make Sense?
+    And What Happens To The Algebra of Observables In The Thermodynamic Limit?](https://arxiv.org/abs/2112.11614) 
+  - [Gravity and the crossed product](https://arxiv.org/abs/2112.12828) 
+- Some concrete examples:
+  - EE in 2d CFT: [Entanglement entropy and conformal field theory](https://arxiv.org/abs/0905.4013) 
+  - EE in JT: [Entanglement Entropy in Jackiw-Teitelboim
+    Gravity](https://arxiv.org/abs/1911.10663) 
+  - 
