@@ -56,6 +56,8 @@ Every week on Saturday at 10am BJT.
 
 ## Suggest papers
 
+**Special notice that Bartek Czech will give several lectures from Nov. in Tsinghua, which is strongly correlated to our discussions. Here is the reference: [Quantum Information in Holographic Duality ](https://arxiv.org/abs/2108.09188)** 
+
 - Quantum Information:
   - [Jerusalem Lectures on Black Holes and
     Quantum Information](https://arxiv.org/abs/1409.1231) 
