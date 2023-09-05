@@ -43,7 +43,7 @@ Every week on Saturday at 10am BJT.
 
 ## Schedule of speakers
 
-- 2023-09-16: General introduction & [1907.08126](https://arxiv.org/abs/1907.08126) Section 1 Jianghui Yu [余江辉]
+- 2023-09-16: General introduction & [1907.08126](https://arxiv.org/abs/1907.08126) Section 1 []
 - 2023-09-23: [1907.08126](https://arxiv.org/abs/1907.08126) Section 2 []
 - 2023-09-30: [1907.08126](https://arxiv.org/abs/1907.08126) Section 3 Yixin Ma [马奕昕]
 - 2023-10-07: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.1-4.3 Guancheng Lu [鹿官澄]
