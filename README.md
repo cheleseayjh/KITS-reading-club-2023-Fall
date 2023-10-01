@@ -46,6 +46,7 @@ Every week on Saturday at 10am BJT.
 - 2023-09-16: General introduction & [1907.08126](https://arxiv.org/abs/1907.08126) Section 1 Tengzhou Lai [赖腾洲]
 - 2023-09-23: [1907.08126](https://arxiv.org/abs/1907.08126) Section 2 Yanyuan Li [黎晏源]
 - 2023-10-07: [1907.08126](https://arxiv.org/abs/1907.08126) Section 3 Yixin Ma [马奕昕]
+  - **Note the special time 2:30pm*
 - 2023-10-14: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.1-4.3 Guancheng Lu [鹿官澄]
 - 2023-10-21: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.4-4.7 Miao Wang [王淼]
 - 2023-10-28: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.1-5.2 Weibo Mao [茅伟博]
