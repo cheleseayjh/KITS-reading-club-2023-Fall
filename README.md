@@ -20,7 +20,15 @@ We plan to have a general introduction first, and follow up with discussions on 
 
 - general introduction: [Lectures on entanglement entropy in field theory and
   holography](https://arxiv.org/abs/1907.08126) 
-- TBD
+
+- vN algebra:
+
+  1. some mathematical ideas of entanglement in QFT - [Notes On Some Entanglement Properties Of Quantum Field Theory](https://arxiv.org/abs/1803.04993) 
+  2. vN algebra for physicist - [Notes on the type classification of von Neumann algebras](https://arxiv.org/abs/2302.01958) 
+  3. vN algebra in quantum gravity - [Gravity and the crossed product](https://arxiv.org/abs/2112.12828) 
+  4. applications in generalized entanglement entropy - [Large *N* algebras and generalized entropy](https://arxiv.org/abs/2209.10454) 
+
+  Useful resources: [Mini lectures from Yixu](https://space.bilibili.com/1881237721/channel/collectiondetail?sid=1184790) 
 
 
 
@@ -51,7 +59,14 @@ Every week on Saturday at 10am BJT.
 - 2023-10-21: [1907.08126](https://arxiv.org/abs/1907.08126) Section 4.4-4.7 Miao Wang [王淼]
 - 2023-10-28: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.1-5.2 Weibo Mao [茅伟博]
 - 2023-11-04: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.3-5.4 Chen Bai [柏辰]
-- 2023-11-11: 
+- 2023-11-11: [1804.04993](https://arxiv.org/abs/1803.04993) Section 1-2
+- 2023-11-18: [1804.04993](https://arxiv.org/abs/1803.04993) Section 3-4
+- 2023-11-25: [1804.04993](https://arxiv.org/abs/1803.04993) Section 5-7
+- 2023-12-02: [2302.01958](https://arxiv.org/abs/2302.01958) Section 4-6
+- 2023-12-09: [2302.01958](https://arxiv.org/abs/2302.01958) Section 1-3 & 7-8
+- 2023-12-16: [2112.12828](https://arxiv.org/abs/2112.12828) 
+- 2023-12-23: [2209.10454](https://arxiv.org/abs/2209.10454) Section 1-3
+- 2023-12-30: [2209.10454](https://arxiv.org/abs/2209.10454) Section 4-5
 
 
 
@@ -74,8 +89,9 @@ Every week on Saturday at 10am BJT.
   - [Why Does Quantum Field Theory In Curved Spacetime Make Sense?
     And What Happens To The Algebra of Observables In The Thermodynamic Limit?](https://arxiv.org/abs/2112.11614) 
   - [Gravity and the crossed product](https://arxiv.org/abs/2112.12828) 
+  - [Large *N* algebras and generalized entropy](https://arxiv.org/abs/2209.10454) 
+  - [Algebras and States in JT Gravity](https://arxiv.org/abs/2301.07257) 
 - Some concrete examples:
   - EE in 2d CFT: [Entanglement entropy and conformal field theory](https://arxiv.org/abs/0905.4013) 
   - EE in JT: [Entanglement Entropy in Jackiw-Teitelboim
     Gravity](https://arxiv.org/abs/1911.10663) 
-  - 
