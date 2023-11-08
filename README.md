@@ -62,7 +62,7 @@ Every week on Saturday at 10am BJT.
 - 2023-11-11: [1803.04993](https://arxiv.org/abs/1803.04993) Section 1-2
 - 2023-11-18: [1803.04993](https://arxiv.org/abs/1803.04993) Section 3-4
 - 2023-11-25: [1803.04993](https://arxiv.org/abs/1803.04993) Section 5-7
-- 2023-12-02: [2302.01958](https://arxiv.org/abs/2302.01958) Section 4-6
+- 2023-12-02: [2302.01958](https://arxiv.org/abs/2302.01958) Section 4-6 Weibo Mao [茅伟博]
 - 2023-12-09: [2302.01958](https://arxiv.org/abs/2302.01958) Section 1-3 & 7-8
 - 2023-12-16: [2112.12828](https://arxiv.org/abs/2112.12828) 
 - 2023-12-23: [2209.10454](https://arxiv.org/abs/2209.10454) Section 1-3
