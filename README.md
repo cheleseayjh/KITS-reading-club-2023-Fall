@@ -60,10 +60,10 @@ Every week on Saturday at 10am BJT.
 - 2023-10-28: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.1-5.2 Weibo Mao [茅伟博]
 - 2023-11-04: [1907.08126](https://arxiv.org/abs/1907.08126) Section 5.3-5.4 Chen Bai [柏辰]
 - 2023-11-18: [1803.04993](https://arxiv.org/abs/1803.04993) Section 1-2 Jianghui Yu [余江晖]
-- 2023-11-25: [1803.04993](https://arxiv.org/abs/1803.04993) Section 3-4
-- 2023-12-02: [1803.04993](https://arxiv.org/abs/1803.04993) Section 5-7
+- 2023-11-25: [1803.04993](https://arxiv.org/abs/1803.04993) Section 3-4 Miao Wang [王淼]
+- 2023-12-02: [1803.04993](https://arxiv.org/abs/1803.04993) Section 5-7 
 - 2023-12-09: [2302.01958](https://arxiv.org/abs/2302.01958) Section 4-6 Weibo Mao [茅伟博]
-- 2023-12-16: [2302.01958](https://arxiv.org/abs/2302.01958) Section 1-3 & 7-8
+- 2023-12-16: [2302.01958](https://arxiv.org/abs/2302.01958) Section 1-3 & 7-8 Guancheng Lu [鹿官澄]
 - 2023-12-23: [2112.12828](https://arxiv.org/abs/2112.12828) 
 - 2023-12-30: [2209.10454](https://arxiv.org/abs/2209.10454) Section 1-3
 - 2024-01-06: [2209.10454](https://arxiv.org/abs/2209.10454) Section 4-5
